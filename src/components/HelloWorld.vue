@@ -22,8 +22,7 @@
           </div>
           <div class="content">
             <h1
-              class="text-[100px] font-bold max-w-[900px] text-center mx-auto mb-10"
-            >
+              class="text-[100px] font-bold max-w-[900px] text-center mx-auto mb-10">
               Shaping the Future Through Education and Innovation
             </h1>
             <p class="mb-[60px] text-xl max-w-[900px] text-center mx-auto">
@@ -33,13 +32,11 @@
             </p>
             <div class="buttons flex justify-center gap-20">
               <button
-                class="bg-blue-700 text-white px-4 py-2 rounded-full w-[270px] text-2xl"
-              >
+                class="bg-blue-700 text-white px-4 py-2 rounded-full w-[270px] text-2xl">
                 Get Started
               </button>
               <button
-                class="bg-none border border-white px-4 py-2 rounded-full w-[270px] text-2xl"
-              >
+                class="bg-none border border-white px-4 py-2 rounded-full w-[270px] text-2xl">
                 Learn More
               </button>
             </div>
@@ -49,8 +46,7 @@
       <div class="section container mx-auto mb-[170px]">
         <div class="texts flex justify-between items-center pb-10">
           <h1
-            class="text-[#0540F2] text-[64px] font-semibold max-w-[750px] text-start"
-          >
+            class="text-[#0540F2] text-[64px] font-semibold max-w-[750px] text-start">
             Univerz's Commitment to Academic Excellence
           </h1>
           <p class="text-xl text-[#222222] max-w-[550px] text-left">
@@ -63,41 +59,35 @@
             <img class="w-[530px]" src="../assets/Rectangle12.png" alt="" />
           </div>
           <div
-            class="max-w-[433px] flex flex-col justify-between col-span-4 mx-auto"
-          >
+            class="max-w-[433px] flex flex-col justify-between col-span-4 mx-auto">
             <img class="w-[433px]" src="../assets/Rectangle13.png" alt="" />
             <p class="text-xl text-[#222222] text-start">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
               tristique, tor nec consequat vulputate, lorem ar congue.
             </p>
             <button
-              class="text-2xl py-3 px-16 bg-[#0540F2] rounded-full max-w-[270px]"
-            >
+              class="text-2xl py-3 px-16 bg-[#0540F2] rounded-full max-w-[270px]">
               Read More
             </button>
           </div>
           <div class="flex flex-col justify-between col-span-1 max-w-[185px]">
             <div
-              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center"
-            >
+              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center">
               <p class="blue text-[32px] font-bold">35+</p>
               <p class="gray text-xl font-medium">Course</p>
             </div>
             <div
-              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center"
-            >
+              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center">
               <p class="blue text-[32px] font-bold">56+</p>
               <p class="gray text-xl font-medium">Startups</p>
             </div>
             <div
-              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center"
-            >
+              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center">
               <p class="blue text-[32px] font-bold">100+</p>
               <p class="gray text-xl font-medium">Language</p>
             </div>
             <div
-              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center"
-            >
+              class="p-[37px] rounded-2xl bg-[#FFFFFF] flex flex-col items-center">
               <p class="blue text-[32px] font-bold">150+</p>
               <p class="gray text-xl font-medium">Professors</p>
             </div>
@@ -106,18 +96,17 @@
       </div>
       <div class="course mx-auto container mb-[170px]">
         <h1
-          class="text-[64px] font-bold blue max-w-[970px] mx-auto text-center mb-[40px]"
-        >
+          class="text-[64px] font-bold blue max-w-[970px] mx-auto text-center mb-[40px]">
           Explore Our Academic Offerings Chart Your Path to Success
         </h1>
-        <p class="max-w-[640px] gray text-xl font-medium text-center mx-auto mb-[70px]">
+        <p
+          class="max-w-[640px] gray text-xl font-medium text-center mx-auto mb-[70px]">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at
           massa sit amet nisi blandit vehicula adipiscing elit.
         </p>
         <div class="flex flex-wrap gap-[54px]">
           <div
-            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto"
-          >
+            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto">
             <div>
               <img class="w-28" src="../assets/Icon1.png" alt="" />
             </div>
@@ -129,8 +118,7 @@
             </div>
           </div>
           <div
-            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto"
-          >
+            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto">
             <div>
               <img class="w-28" src="../assets/Icon2.png" alt="" />
             </div>
@@ -142,8 +130,7 @@
             </div>
           </div>
           <div
-            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto"
-          >
+            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto">
             <div>
               <img class="w-28" src="../assets/Icon3.png" alt="" />
             </div>
@@ -155,8 +142,7 @@
             </div>
           </div>
           <div
-            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto"
-          >
+            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto">
             <div>
               <img class="w-28" src="../assets/Icon4.png" alt="" />
             </div>
@@ -168,8 +154,7 @@
             </div>
           </div>
           <div
-            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto"
-          >
+            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto">
             <div>
               <img class="w-28" src="../assets/Icon5.png" alt="" />
             </div>
@@ -181,8 +166,7 @@
             </div>
           </div>
           <div
-            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto"
-          >
+            class="bg-[#0540F2] rounded-2xl flex max-w-[400px] items-center p-[37px] gap-[24px] mx-auto">
             <div>
               <img class="w-28" src="../assets/Icon6.png" alt="" />
             </div>
@@ -196,10 +180,172 @@
         </div>
         <div class="flex justify-center mt-[80px]">
           <button
-            class="rounded-full px-[85px] py-[12px] text-2xl font-medium bg-[#0540f2]"
-          >
+            class="rounded-full px-[85px] py-[12px] text-2xl font-medium bg-[#0540f2]">
             View All
           </button>
+        </div>
+      </div>
+      <div class="about-section bg-[#0540F2] py-[90px] mb-[170px]">
+        <div class="carousel">
+          <h1
+            class="font-bold text-[64px] max-w-[595px] mx-auto text-center mb-[40px]">
+            What Our Student Say About Us
+          </h1>
+          <p class="text-xl max-w-[640px] mx-auto text-center mb-[60px]">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at
+            massa sit amet nisi blandit vehicula adipiscing elit.
+          </p>
+          <div class="carousel-item max-w-[680px] flex mx-auto items-center">
+            <div>
+              <img src="../assets/carousel1.png" alt="" />
+            </div>
+            <div class="content flex flex-col justify- items-center">
+              <img src="../assets/carousel.png" alt="" />
+              <h3 class="font-semibold text-[32px]">Carmen Hodkiewicz</h3>
+              <p>Global Markets Engineer</p>
+              <p class="text-center">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
+                at massa sit amet nisi blandit vehicula adipiscing elit.
+              </p>
+            </div>
+            <div>
+              <img src="../assets/carousel2.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="cards container mx-auto mb-[170px]">
+        <div class="title flex justify-between items-center mb-[70px]">
+          <h1 class="font-bold text-[64px] blue max-w-[740px]">
+            Check out our Latest Articles and Knowledge
+          </h1>
+          <div class="flex flex-col items-end gap-[33px]">
+            <p class="gray text-xl max-w-[595px]">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at
+              massa sit amet nisi blandit vehicula adipiscing elit.
+            </p>
+            <button
+              class="bg-[#0540f2] text-2xl text-white rounded-full px-[70px] py-[12px]">
+              View All
+            </button>
+          </div>
+        </div>
+        <div class="cards grid grid-cols-3 gap-11">
+          <div class="mx-auto card col-span-1 max-w-[400px] rounded">
+            <img
+              src="../assets/images/card-img.png"
+              alt=""
+              class="rounded-t-3xl rounded-tr-3xl-3xl" />
+            <div
+              class="px-10 py-8 bg-white rounded-br-3xl rounded-bl-3xl flex flex-col gap-[30px] justify-between">
+              <p
+                class="text-2xl bg-[#0540f2] rounded-full py-[12px] max-w-[180px] text-center">
+                Insight
+              </p>
+              <span class="gray text-[16px] font-semibold">12 Aug 2023</span>
+              <h3 class="font-semibold text-[24px] blue">
+                Many Univerz university graduates immediately work
+              </h3>
+              <p class="gray text-xl font-medium">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              </p>
+            </div>
+          </div>
+          <div class="mx-auto card col-span-1 max-w-[400px] rounded">
+            <img
+              src="../assets/images/card-img.png"
+              alt=""
+              class="rounded-t-3xl rounded-tr-3xl-3xl" />
+            <div
+              class="px-10 py-8 bg-white rounded-br-3xl rounded-bl-3xl flex flex-col gap-[30px] justify-between">
+              <p
+                class="text-2xl bg-[#0540f2] rounded-full py-[12px] max-w-[180px] text-center">
+                Tips
+              </p>
+              <span class="gray text-[16px] font-semibold">19 Dec 2023</span>
+              <h3 class="font-semibold text-[24px] blue">
+                Tips so you don't get lazy in college
+              </h3>
+              <p class="gray text-xl font-medium">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              </p>
+            </div>
+          </div>
+          <div class="mx-auto card col-span-1 max-w-[400px] rounded">
+            <img
+              src="../assets/images/card-img.png"
+              alt=""
+              class="rounded-t-3xl rounded-tr-3xl-3xl" />
+            <div
+              class="px-10 py-8 bg-white rounded-br-3xl rounded-bl-3xl flex flex-col gap-[30px] justify-between">
+              <p
+                class="text-2xl bg-[#0540f2] rounded-full py-[12px] max-w-[180px] text-center">
+                Recommend
+              </p>
+              <span class="gray text-[16px] font-semibold">12 Nov 2023</span>
+              <h3 class="font-semibold text-[24px] blue">
+                10 recommendations for good college places
+              </h3>
+              <p class="gray text-xl font-medium">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer">
+        <div class="content max-w-[750px] mx-auto">
+          <h1 class="text-[64px] blue font-semibold text-center mb-[40px]">
+            Join now to get special offers at Univerz
+          </h1>
+          <p class="text-xl gray max-w-[600px] text-center mx-auto mb-[45px]">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at
+            massa sit amet nisi blandit adipiscing elit.
+          </p>
+          <button
+            class="max-w-[270px] mx-auto py-[12px] px-[80px] bg-[#0540f2] rounded-full text-xl flex items-center">
+            Join Now
+          </button>
+        </div>
+        <div class="bg-[#0540f2]">
+          <div
+            class="footer-end grid grid-cols-6 gap-[50px] mt-[80px] flex-wrap container mx-auto py-24">
+            <div class="col-span-3">
+              <h1 class="text-[64px] font-bold mb-[15px]">Univerz</h1>
+              <p class="text-xl max-w-[420px]">
+                Lorem ipsum dolor sit amet, consectetur adipisci elit. Donec
+                ultricies mi in ipsum vehicula lacinia. Iner porttitor ac libero
+              </p>
+            </div>
+            <div class="cols-span-1">
+              <h3 class="mb-[30px]">Quick Links</h3>
+              <ul class="flex flex-col justify-between gap-3">
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+                <li>Service</li>
+                <li>Contact</li>
+              </ul>
+            </div>
+            <div class="cols-span-1">
+              <h3 class="mb-[30px]">Follow Us</h3>
+              <ul class="flex flex-col justify-between gap-3">
+                <li>Facebook</li>
+                <li>Telegram</li>
+                <li>Instagram</li>
+                <li>YouTube</li>
+              </ul>
+            </div>
+            <div class="col-span-1">
+              <h3 class="mb-[30px]">Pages</h3>
+              <ul class="flex flex-col justify-between gap-3">
+                <li>Blog</li>
+                <li>Team</li>
+                <li>Testimonial</li>
+                <li>CTA</li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     </div>
